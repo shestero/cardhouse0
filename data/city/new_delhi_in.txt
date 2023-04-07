@@ -1,0 +1,7 @@
+name: New Delhi
+country: in
+language: hindi
+language: english
+class: Alpha-
+climate: bsh
+latlong: (28.632921,77.219434)

@@ -1,0 +1,6 @@
+name: Mexico City
+country: mx
+language: spanish
+class: Alpha
+climate: cwb
+latlong: (19.43575,-99.143945)

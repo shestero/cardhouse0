@@ -1,0 +1,5 @@
+name: Bangor (North Wales)
+country: uk
+language: english
+climate: cfb
+latlong: (53.227357,-4.124658)

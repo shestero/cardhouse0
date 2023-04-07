@@ -1,0 +1,6 @@
+name: Moscow
+country: ru
+language: russian
+class: Alpha
+climate: dfb
+latlong: (55.754609,37.619115)

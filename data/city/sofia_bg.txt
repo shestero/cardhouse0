@@ -1,0 +1,6 @@
+name: Sofia
+country: bg
+language: bulgarian
+class: Beta
+climate: cfb
+latlong: (42.696803,23.321019)

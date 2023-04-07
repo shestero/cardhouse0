@@ -1,0 +1,6 @@
+name: Manila
+country: ph
+language: filipino
+class: Alpha-
+climate: aw
+latlong: (14.590216,120.981474)

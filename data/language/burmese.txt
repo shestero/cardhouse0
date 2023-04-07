@@ -1,0 +1,3 @@
+name: Burmese
+nativeName: မြန်မာစာ
+iso: mya

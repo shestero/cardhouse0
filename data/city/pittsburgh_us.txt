@@ -1,0 +1,6 @@
+name: Pittsburgh
+country: us
+language: english
+class: Gamma-
+climate: cfa
+latlong: (40.441635,-80.004813)

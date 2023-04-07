@@ -1,0 +1,6 @@
+name: Porto
+country: pt
+language: portuguese
+class: Gamma+
+climate: csb
+latlong: (41.157906,-8.629115)

@@ -1,0 +1,5 @@
+name: Vladivostok
+country: ru
+language: russian
+climate: dwb
+latlong: (43.115106,131.885331)

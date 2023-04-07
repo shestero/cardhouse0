@@ -1,0 +1,6 @@
+name: Sabadell
+country: es
+language: catalan
+language: spanish
+climate: cfa
+latlong: (41.54626,2.108237)

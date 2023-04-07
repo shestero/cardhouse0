@@ -1,0 +1,6 @@
+name: Phnom Penh
+country: kh
+language: khmer
+class: High Sufficiency
+climate: aw
+latlong: (11.562345,104.928663)

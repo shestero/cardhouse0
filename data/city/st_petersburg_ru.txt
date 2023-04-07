@@ -1,0 +1,6 @@
+name: St. Petersburg
+country: ru
+language: russian
+class: Gamma
+climate: dfb
+latlong: (59.93154,30.309241)

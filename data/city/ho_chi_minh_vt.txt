@@ -1,0 +1,6 @@
+name: Ho Chi Minh
+country: vt
+language: vietnamese
+class: Beta+
+climate: aw
+latlong: (10.776471,106.701143)

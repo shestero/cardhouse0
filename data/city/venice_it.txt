@@ -1,0 +1,5 @@
+name: Venice
+country: it
+language: italian
+climate: cfa
+latlong: (45.434069,12.338332)

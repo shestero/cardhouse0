@@ -1,0 +1,7 @@
+name: Edinburgh
+country: uk
+language: english
+language: scots
+class: Beta-
+climate: cfb
+latlong: (55.952997,-3.20042)

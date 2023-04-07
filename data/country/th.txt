@@ -1,0 +1,3 @@
+name: Thailand
+fullName: Kingdom of Thailand
+nativeName: ราชอาณาจักรไทย 

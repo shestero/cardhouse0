@@ -1,0 +1,6 @@
+name: Casablanca
+country: ma
+language: arabic
+class: Beta
+climate: csa
+latlong: (33.589102,-7.608901)

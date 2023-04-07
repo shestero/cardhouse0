@@ -1,0 +1,6 @@
+name: Kuala Lumpur
+country: my
+language: malay
+class: Alpha+
+climate: af
+latlong: (3.158596,101.711321)

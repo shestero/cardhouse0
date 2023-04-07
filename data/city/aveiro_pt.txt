@@ -1,0 +1,5 @@
+name: Aveiro
+country: pt
+language: portuguese
+climate: csb
+latlong: (40.641325,-8.653642)

@@ -1,0 +1,6 @@
+name: Dubai
+country: ae
+language: arabic
+class: Alpha+
+climate: bwh
+latlong: (25.195171,55.27538)

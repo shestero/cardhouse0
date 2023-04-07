@@ -1,0 +1,6 @@
+name: Glasgow
+country: uk
+language: english
+class: Gamma+
+climate: cfb
+latlong: (55.860803,-4.257898)

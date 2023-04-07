@@ -1,0 +1,6 @@
+name: Bologna
+country: it
+language: italian
+class: Gamma-
+climate: cfa
+latlong: (44.493705,11.343069)

@@ -1,0 +1,6 @@
+name: Hanoi
+country: vt
+language: vietnamese
+class: Beta
+climate: cwa
+latlong: (21.024338,105.857131)

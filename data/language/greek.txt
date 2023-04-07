@@ -1,0 +1,4 @@
+name: Greek
+nativeName: Ελληνικά
+iso: ell
+family: indo-european

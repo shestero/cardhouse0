@@ -1,0 +1,6 @@
+name: Beijing
+country: cn
+language: mandarin
+class: Alpha+
+climate: dwa
+latlong: (39.903922,116.397728)

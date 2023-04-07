@@ -1,0 +1,6 @@
+name: Brasília
+country: br
+language: portuguese
+class: Sufficiency
+climate: aw
+latlong: (-15.798682,-47.867316)

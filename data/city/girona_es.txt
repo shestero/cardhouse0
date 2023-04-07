@@ -1,0 +1,6 @@
+name: Girona
+country: es
+language: catalan
+language: spanish
+climate: csa
+latlong: (41.981703,2.823363)

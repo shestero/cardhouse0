@@ -1,0 +1,6 @@
+name: Bangalore
+country: in
+language: kannada
+class: Beta+
+climate: aw
+latlong: (12.964144,77.585992)

@@ -1,0 +1,7 @@
+name: Miami
+country: us
+language: english
+language: spanish
+class: Alpha
+climate: aw
+latlong: (25.772831,-80.185876)

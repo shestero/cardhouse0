@@ -1,0 +1,9 @@
+name: Singapore
+country: sg
+language: malay
+language: english
+language: mandarin
+language: tamil
+class: Alpha+
+climate: af
+latlong: (1.29313,103.851725)

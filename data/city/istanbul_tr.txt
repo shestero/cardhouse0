@@ -1,0 +1,6 @@
+name: Istanbul
+country: tr
+language: turkish
+class: Alpha
+climate: csa
+latlong: (41.01379,28.954688)

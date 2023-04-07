@@ -1,0 +1,3 @@
+name: Ecuador
+fullName: Ecuador
+nativeName: 

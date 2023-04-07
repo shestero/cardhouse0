@@ -1,0 +1,6 @@
+name: Auckland
+country: nz
+language: english
+class: Beta+
+climate: cfb
+latlong: (-36.846029,174.763728)

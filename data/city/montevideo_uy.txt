@@ -1,0 +1,6 @@
+name: Montevideo
+country: ur
+language: spanish
+class: Beta
+climate: cfa
+latlong: (-34.90652,-56.199756)

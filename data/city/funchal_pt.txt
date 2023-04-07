@@ -1,0 +1,5 @@
+name: Funchal
+country: pt
+language: portuguese
+climate: csa
+latlong: (32.647234,-16.905127)

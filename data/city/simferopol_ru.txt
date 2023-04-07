@@ -1,0 +1,5 @@
+name: Simferopol
+country: ru
+language: russian
+climate: cfb
+latlong: (44.95159,34.096669)

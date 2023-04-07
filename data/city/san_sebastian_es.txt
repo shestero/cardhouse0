@@ -1,0 +1,5 @@
+name: Donostia-San Sebastian
+country: es
+language: spanish
+climate: cfb
+latlong: (43.305334,-1.974533)

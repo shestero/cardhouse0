@@ -1,0 +1,6 @@
+name: Bratislava
+country: sk
+language: slovak
+class: Beta
+climate: cfb
+latlong: (48.143487,17.108304)

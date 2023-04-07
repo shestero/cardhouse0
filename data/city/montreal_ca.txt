@@ -1,0 +1,7 @@
+name: Montreal
+country: ca
+language: french
+language: english
+class: Beta
+climate: dfb
+latlong: (45.507754,-73.554441)

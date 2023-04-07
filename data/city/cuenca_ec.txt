@@ -1,0 +1,5 @@
+name: Cuenca
+country: ec
+language: spanish
+climate: cfb
+latlong: (-2.897385,-79.004483)

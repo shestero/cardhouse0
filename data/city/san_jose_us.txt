@@ -1,0 +1,6 @@
+name: San Jose
+country: us
+language: english
+class: Gamma+
+climate: csc
+latlong: (37.335888,-121.891211)

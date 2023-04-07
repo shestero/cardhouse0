@@ -1,0 +1,7 @@
+name: Macau
+country: cn
+language: cantonese
+language: portuguese
+class: Sufficiency
+climate: cwa
+latlong: (22.198099,113.543543)

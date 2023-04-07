@@ -1,0 +1,3 @@
+name: Philippines
+fullName: Republic of the Philippines
+nativeName: Republika ng Pilipinas

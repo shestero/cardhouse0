@@ -1,0 +1,3 @@
+name: English
+iso: eng
+family: indo-european

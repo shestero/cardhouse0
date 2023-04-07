@@ -1,0 +1,6 @@
+name: Budapest
+country: hu
+language: hungarian
+class: Beta+
+climate: cfb
+latlong: (47.498206,19.052508)

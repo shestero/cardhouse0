@@ -1,0 +1,3 @@
+name: Ga
+iso: gaa
+family: niger-kordofanian

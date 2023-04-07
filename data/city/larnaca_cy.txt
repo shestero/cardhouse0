@@ -1,0 +1,5 @@
+name: Larnaca
+country: cy
+language: greek
+climate: csa
+latlong: (34.922189,33.623761)

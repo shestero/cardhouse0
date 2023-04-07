@@ -1,0 +1,6 @@
+name: Panama City
+country: pa
+language: spanish
+class: Beta-
+climate: aw
+latlong: (8.976916,-79.533992)

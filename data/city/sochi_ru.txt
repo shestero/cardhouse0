@@ -1,0 +1,5 @@
+name: Sochi
+country: ru
+language: russian
+climate: cfa
+latlong: (43.582579,39.722037)

@@ -1,0 +1,5 @@
+name: Chongqing
+country: cn
+language: mandarin
+climate: cfa
+latlong: (29.553493,106.550899)

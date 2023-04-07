@@ -1,0 +1,4 @@
+name: Swedish
+nativeName: svenska
+iso: swe
+family: indo-european

@@ -1,0 +1,6 @@
+name: Madrid
+country: es
+language: spanish
+class: Alpha
+climate: csa
+latlong: (40.416958,-3.7036666)

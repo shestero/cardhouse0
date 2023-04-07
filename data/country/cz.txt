@@ -1,0 +1,3 @@
+name: Czechia
+fullName: Czech Republic
+nativeName: 

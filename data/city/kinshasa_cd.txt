@@ -1,0 +1,7 @@
+name: Kinshasa
+country: cd
+language: french
+language: lingala
+class: Sufficiency
+climate: aw
+latlong: (-4.306844,15.309011)

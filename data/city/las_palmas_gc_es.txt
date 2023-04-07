@@ -1,0 +1,5 @@
+name: Las Palmas de Gran Canaria
+country: es
+language: spanish
+climate: bwh
+latlong: (28.134475,-15.435086)

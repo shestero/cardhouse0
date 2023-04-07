@@ -1,0 +1,7 @@
+name: Brussels
+country: be
+language: french
+language: dutch_flemish
+class: Alpha
+climate: cfb
+latlong: (50.848272,4.349756)

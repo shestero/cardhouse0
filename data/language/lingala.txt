@@ -1,0 +1,3 @@
+name: Lingala
+iso: lin
+family: niger-kordofanian

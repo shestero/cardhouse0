@@ -1,0 +1,7 @@
+name: Barcelona
+country: es
+language: catalan
+language: spanish
+class: Alpha-
+climate: csa
+latlong: (41.3869861,2.1697545)

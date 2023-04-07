@@ -1,0 +1,7 @@
+name: Kiev
+country: ua
+language: ukrainian
+language: russian
+class: Beta+
+climate: dfb
+latlong: (50.451209,30.522155)

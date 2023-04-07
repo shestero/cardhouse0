@@ -1,0 +1,6 @@
+name: Turin
+country: it
+language: italian
+class: Gamma
+climate: cfa
+latlong: (45.071118,7.685531)

@@ -1,0 +1,5 @@
+name: Santa Fe
+country: us
+language: english
+climate: cfb
+latlong: (35.687426,-105.938515)

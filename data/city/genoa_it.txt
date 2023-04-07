@@ -1,0 +1,6 @@
+name: Genoa
+country: it
+language: italian
+class: Sufficiency
+climate: csa
+latlong: (44.407181,8.934046)

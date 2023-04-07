@@ -1,0 +1,6 @@
+name: Dallas
+country: us
+language: english
+class: Beta+
+climate: cfa
+latlong: (32.779856,-96.802921)

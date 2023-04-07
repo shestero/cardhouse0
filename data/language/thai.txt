@@ -1,0 +1,4 @@
+name: Thai
+nativeName: ภาษาไทย
+iso: tha
+family: daic

@@ -1,0 +1,6 @@
+name: Brisbane
+country: au
+language: english
+class: Beta
+climate: cfa
+latlong: (-27.469022,153.029343)

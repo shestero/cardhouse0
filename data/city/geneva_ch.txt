@@ -1,0 +1,6 @@
+name: Geneva
+country: ch
+language: french
+class: Beta
+climate: cfb
+latlong: (46.201108,6.146587)

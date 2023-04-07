@@ -1,0 +1,6 @@
+name: Tel Aviv
+country: il
+language: hebrew
+class: Alpha-
+climate: csa
+latlong: (32.079514,34.780018)

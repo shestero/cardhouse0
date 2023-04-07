@@ -1,0 +1,6 @@
+name: Prague
+country: cz
+language: czech
+class: Beta+
+climate: cfb
+latlong: (50.08752,14.420718)

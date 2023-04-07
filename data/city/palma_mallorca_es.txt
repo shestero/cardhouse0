@@ -1,0 +1,6 @@
+name: Palma de Mallorca
+country: es
+language: catalan
+language: spanish
+climate: bsk
+latlong: (39.571407,2.651727)

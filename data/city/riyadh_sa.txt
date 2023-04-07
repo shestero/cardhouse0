@@ -1,0 +1,6 @@
+name: Riyadh
+country: sa
+language: arabic
+class: Alpha-
+climate: bwh
+latlong: (24.652165,46.714537)

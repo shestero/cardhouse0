@@ -1,0 +1,6 @@
+name: Seattle
+country: us
+language: english
+class: Beta-
+climate: csb
+latlong: (47.602157,-122.334187)

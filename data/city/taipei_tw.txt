@@ -1,0 +1,6 @@
+name: Taipei
+country: tw
+language: mandarin
+class: Alpha
+climate: cfa
+latlong: (25.037528,121.563558)

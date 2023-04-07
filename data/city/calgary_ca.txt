@@ -1,0 +1,5 @@
+name: Calgary
+country: ca
+language: english
+climate: dfb
+latlong: (51.048587,-114.071538)

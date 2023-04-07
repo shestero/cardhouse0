@@ -1,0 +1,6 @@
+name: San Jose
+country: cr
+language: spanish
+class: Beta-
+climate: am
+latlong: (9.931702,-84.094623)

@@ -1,0 +1,6 @@
+name: Portland
+country: us
+language: english
+class: High Sufficiency
+climate: csb
+latlong: (45.514733,-122.677961)

@@ -1,0 +1,6 @@
+name: Beirut
+country: lb
+language: arabic
+class: Beta
+climate: csa
+latlong: (33.895626,35.488972)

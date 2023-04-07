@@ -1,0 +1,6 @@
+name: Buenos Aires
+country: ar
+language: spanish
+class: Alpha
+climate: cfa
+latlong: (-34.608538,-58.373577)

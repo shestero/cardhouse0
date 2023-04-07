@@ -1,0 +1,3 @@
+name: Scots
+iso: sco
+family: indo-european

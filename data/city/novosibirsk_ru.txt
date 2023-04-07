@@ -1,0 +1,5 @@
+name: Novosibirsk
+country: ru
+language: russian
+climate: dfb
+latlong: (55.030059,82.92066)

@@ -1,0 +1,6 @@
+name: Nice
+country: fr
+language: french
+class: Sufficiency
+climate: csa
+latlong: (43.695946,7.271673)

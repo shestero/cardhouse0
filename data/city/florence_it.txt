@@ -1,0 +1,6 @@
+name: Florence
+country: it
+language: italian
+class: Sufficiency
+climate: csa
+latlong: (43.773126,11.25537)

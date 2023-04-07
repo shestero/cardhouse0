@@ -1,0 +1,6 @@
+name: Manchester
+country: uk
+language: english
+class: Beta
+climate: cfb
+latlong: (53.479429,-2.245111)

@@ -1,0 +1,4 @@
+name: Spanish
+nativeName: español
+iso: spa
+family: indo-european

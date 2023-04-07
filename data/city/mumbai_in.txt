@@ -1,0 +1,7 @@
+name: Mumbai
+country: in
+language: marathi
+language: english
+class: Alpha+
+climate: aw
+latlong: (18.981067,72.826775)

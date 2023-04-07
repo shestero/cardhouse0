@@ -1,0 +1,6 @@
+name: Limassol
+country: cy
+language: greek
+class: High Sufficiency
+climate: csa
+latlong: (34.674956,33.044227)

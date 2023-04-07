@@ -1,0 +1,6 @@
+name: Zurich
+country: ch
+language: german
+class: Alpha
+climate: cfb
+latlong: (47.371727,8.542244)

@@ -1,0 +1,5 @@
+name: Luanda
+country: ao
+language: portuguese
+climate: bsh
+latlong: (-8.812122,13.230401)

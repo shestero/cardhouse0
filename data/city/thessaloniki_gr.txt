@@ -1,0 +1,5 @@
+name: Thessaloniki
+country: gr
+language: greek
+climate: bsk
+latlong: (40.632974,22.953523)

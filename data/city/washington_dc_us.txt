@@ -1,0 +1,6 @@
+name: Washington
+country: us
+language: english
+class: Alpha-
+climate: cfa
+latlong: (38.900228,-77.036539)

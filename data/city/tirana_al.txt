@@ -1,0 +1,5 @@
+name: Tirana
+country: al
+language: albanian
+climate: csa
+latlong: (41.328709,19.818263)

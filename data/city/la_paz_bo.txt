@@ -1,0 +1,8 @@
+name: La Paz
+country: bo
+language: spanish
+language: aymara
+language: quechua
+class: High Sufficiency
+climate: cwb
+latlong: (-16.495687,-68.133492)

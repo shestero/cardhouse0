@@ -1,0 +1,6 @@
+name: Copenhagen
+country: dk
+language: danish
+class: Beta+
+climate: cfb
+latlong: (55.675821,12.569126)

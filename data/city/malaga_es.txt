@@ -1,0 +1,6 @@
+name: Malaga
+country: es
+language: spanish
+class: Sufficiency
+climate: csa
+latlong: (36.720104,-4.414901)

@@ -1,0 +1,8 @@
+name: Karachi
+country: pk
+language: urdu
+language: punjabi
+language: pashto
+class: Beta
+climate: bwh
+latlong: (24.845655,66.992164)

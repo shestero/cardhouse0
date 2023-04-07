@@ -1,0 +1,5 @@
+name: Salamanca
+country: es
+language: spanish
+climate: csb
+latlong: (40.965053,-5.664023)

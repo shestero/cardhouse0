@@ -1,0 +1,6 @@
+name: San Francisco
+country: us
+language: english
+class: Alpha-
+climate: csb
+latlong: (37.779388,-122.418447)

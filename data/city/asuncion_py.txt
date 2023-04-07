@@ -1,0 +1,7 @@
+name: Asuncion
+country: py
+language: spanish
+language: guarani
+class: Gamma-
+climate: cfa
+latlong: (-25.287716,-57.647916)

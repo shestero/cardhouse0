@@ -1,0 +1,6 @@
+name: Natal
+country: br
+language: portuguese
+class: High Sufficiency
+climate: aw
+latlong: (-5.787934,-35.204162)

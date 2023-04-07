@@ -1,0 +1,5 @@
+name: Tehran
+country: ir
+language: farsi
+climate: bsk
+latlong: (35.699755,51.338107)

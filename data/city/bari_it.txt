@@ -1,0 +1,5 @@
+name: Bari
+country: it
+language: italian
+climate: csa
+latlong: (41.128577,16.868548)

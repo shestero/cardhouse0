@@ -1,0 +1,5 @@
+name: New Orleans
+country: us
+language: english
+climate: cfa
+latlong: (29.957471,-90.062961)

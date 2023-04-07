@@ -1,0 +1,6 @@
+name: Paris
+country: fr
+language: french
+class: Alpha+
+climate: cfb
+latlong: (48.856745,2.351509)

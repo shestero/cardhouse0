@@ -1,0 +1,4 @@
+name: Edmonton
+country: ca
+language: english
+climate: dfb

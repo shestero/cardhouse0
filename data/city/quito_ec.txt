@@ -1,0 +1,6 @@
+name: Quito
+country: ec
+language: spanish
+class: Beta-
+climate: cfb
+latlong: (-0.203611,-78.482943)

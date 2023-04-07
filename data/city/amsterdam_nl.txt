@@ -1,0 +1,6 @@
+name: Amsterdam
+country: nl
+language: dutch_flemish
+class: Alpha-
+climate: cfb
+latlong: (52.373075,4.892529)

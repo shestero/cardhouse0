@@ -1,0 +1,6 @@
+name: Medellin
+country: co
+language: spanish
+class: Gamma-
+climate: am
+latlong: (6.246098,-75.572277)

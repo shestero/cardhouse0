@@ -1,0 +1,6 @@
+name: Stuttgart
+country: de
+language: german
+class: Beta-
+climate: cfb
+latlong: (48.778606,9.17976)

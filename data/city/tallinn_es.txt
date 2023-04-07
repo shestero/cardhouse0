@@ -1,0 +1,6 @@
+name: Tallinn
+country: ee
+language: estonian
+class: Beta-
+climate: dfb
+latlong: (59.437357,24.745293)

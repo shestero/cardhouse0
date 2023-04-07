@@ -1,0 +1,6 @@
+name: Bucharest
+country: ro
+language: romanian
+class: Beta+
+climate: cfa
+latlong: (44.426809,26.102452)

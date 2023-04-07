@@ -1,0 +1,3 @@
+name: Iran
+fullName: Islamic Republic of Iran
+nativeName: 

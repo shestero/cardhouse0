@@ -1,0 +1,9 @@
+name: Johannesburg
+country: za
+language: english
+language: zulu
+language: afrikaans
+language: xhosa
+class: Alpha-
+climate: cwb
+latlong: (-26.204341,28.041863)

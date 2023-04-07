@@ -1,0 +1,6 @@
+name: Bordeaux
+country: fr
+language: french
+class: Sufficiency
+climate: cfb
+latlong: (44.845116,-0.57796)

@@ -1,0 +1,6 @@
+name: Seoul
+country: kr
+language: korean
+class: Alpha+
+climate: dwa
+latlong: (37.565706,126.976935)

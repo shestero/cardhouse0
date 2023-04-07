@@ -1,0 +1,7 @@
+name: Cape Town
+country: za
+language: english
+language: afrikaans
+class: Beta+
+climate: csb
+latlong: (-33.925139,18.424041)

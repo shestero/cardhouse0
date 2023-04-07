@@ -1,0 +1,5 @@
+name: Baghdad
+country: iq
+language: arabic
+climate: bwh
+latlong: (33.30809,44.393908)

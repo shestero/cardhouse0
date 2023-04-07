@@ -1,0 +1,5 @@
+name: Marbella
+country: es
+language: spanish
+climate: csa
+latlong: (36.510549,-4.882696)

@@ -1,0 +1,5 @@
+name: Arkhangelsk
+country: ru
+language: russian
+climate: dfb
+latlong: (64.539963,40.515801)

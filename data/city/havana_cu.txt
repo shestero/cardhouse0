@@ -1,0 +1,5 @@
+name: Havana
+country: cu
+language: spanish
+climate: aw
+latlong: (23.135406,-82.359227)

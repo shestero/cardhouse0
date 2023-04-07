@@ -1,0 +1,6 @@
+name: Canberra
+country: au
+language: english
+class: Sufficiency
+climate: cfb
+latlong: (-35.281959,149.128655)

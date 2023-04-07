@@ -1,0 +1,6 @@
+name: Marseille
+country: fr
+language: french
+class: Gamma-
+climate: csa
+latlong: (43.296055,5.375987)

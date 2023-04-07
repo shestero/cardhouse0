@@ -1,0 +1,6 @@
+name: Düsseldorf
+country: de
+language: german
+class: Beta+
+climate: cfb
+latlong: (51.225883,6.772053)

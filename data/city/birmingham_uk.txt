@@ -1,0 +1,6 @@
+name: Birmingham
+country: uk
+language: english
+class: Gamma+
+climate: cfb
+latlong: (52.481244,-1.898481)

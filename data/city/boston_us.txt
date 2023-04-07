@@ -1,0 +1,6 @@
+name: Boston
+country: us
+language: english
+class: Beta+
+climate: cfa
+latlong: (42.359723,-71.057903)

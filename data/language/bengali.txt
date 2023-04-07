@@ -1,0 +1,4 @@
+name: Bengali
+nativeName: বাংলা
+iso: ben
+family: indo-european

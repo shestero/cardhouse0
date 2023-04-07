@@ -1,0 +1,6 @@
+name: Chennai
+country: in
+language: tamil
+class: Alpha+
+climate: aw
+latlong: (13.082963,80.277004)

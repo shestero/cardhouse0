@@ -1,0 +1,7 @@
+name: Riga
+country: lv
+language: latvian
+language: russian
+class: Gamma+
+climate: dfb
+latlong: (56.949659,24.104748)

@@ -1,0 +1,7 @@
+name: Colombo
+country: lk
+language: sinhalese
+language: tamil
+class: Gamma+
+climate: af
+latlong: (6.934731,79.842834)

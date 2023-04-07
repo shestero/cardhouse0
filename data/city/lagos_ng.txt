@@ -1,0 +1,6 @@
+name: Lagos
+country: ng
+language: yoruba
+language: english
+climate: aw
+latlong: (6.453792,3.389463)

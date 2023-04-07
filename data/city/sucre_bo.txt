@@ -1,0 +1,6 @@
+name: Sucre
+country: bo
+language: spanish
+language: quechua
+climate: cwb
+latlong: (-19.047872,-65.259597)

@@ -1,0 +1,7 @@
+name: Guangzhou
+country: cn
+language: cantonese
+language: mandarin
+class: Alpha
+climate: cfa
+latlong: (23.1274,113.264301)

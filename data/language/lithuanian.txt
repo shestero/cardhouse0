@@ -1,0 +1,3 @@
+name: Lithuanian
+iso: lit
+family: indo-european

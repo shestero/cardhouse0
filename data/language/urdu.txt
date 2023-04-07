@@ -1,0 +1,3 @@
+name: Urdu
+iso: urd
+family: indo-european

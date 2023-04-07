@@ -1,0 +1,5 @@
+name: Cannes
+country: fr
+language: french
+climate: csb
+latlong: (43.551271,7.012644)

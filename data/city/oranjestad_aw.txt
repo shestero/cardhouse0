@@ -1,0 +1,6 @@
+name: Oranjestad
+country: aw
+language: papiamento
+language: dutch_flemish
+climate: bsh
+latlong: (12.519169,-70.037032)

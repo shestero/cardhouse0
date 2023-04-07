@@ -1,0 +1,4 @@
+name: German
+nativeName: deutsch
+iso: deu
+family: indo-european

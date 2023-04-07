@@ -1,0 +1,6 @@
+name: Lima
+country: pe
+language: spanish
+class: Beta+
+climate: bwh
+latlong: (-12.04594,-77.030541)

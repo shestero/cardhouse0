@@ -1,0 +1,6 @@
+name: Santiago
+country: cl
+language: spanish
+class: Alpha-
+climate: csb
+latlong: (-33.441554,-70.646472)

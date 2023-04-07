@@ -1,0 +1,5 @@
+name: Tbilisi
+country: ge
+language: georgian
+climate: cfa
+latlong: (41.694261,44.801694)

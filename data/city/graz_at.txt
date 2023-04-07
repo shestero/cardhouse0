@@ -1,0 +1,6 @@
+name: Graz
+country: at
+language: german
+class: Sufficiency
+climate: cfb
+latlong: (47.070908,15.438258)

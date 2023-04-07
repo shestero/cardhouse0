@@ -1,0 +1,3 @@
+name: Hungarian
+iso: hun
+family: uralic

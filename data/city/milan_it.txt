@@ -1,0 +1,6 @@
+name: Milan
+country: it
+language: italian
+class: Alpha
+climate: cfa
+latlong: (45.465293,9.186254)

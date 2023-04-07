@@ -1,0 +1,6 @@
+name: Perth
+country: au
+language: english
+class: Beta
+climate: csa
+latlong: (-31.955009,115.860847)

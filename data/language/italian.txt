@@ -1,0 +1,4 @@
+name: Italian
+nativeName: italiano
+iso: ita
+family: indo-european

@@ -1,0 +1,6 @@
+name: Sydney
+country: au
+language: english
+class: Alpha+
+climate: cfa
+latlong: (-33.873206,151.206218)

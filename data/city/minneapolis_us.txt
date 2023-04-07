@@ -1,0 +1,6 @@
+name: Minneapolis
+country: us
+language: english
+class: Beta-
+climate: dfa
+latlong: (44.978226,-93.271133)

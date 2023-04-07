@@ -1,0 +1,7 @@
+name: Ottawa
+country: ca
+language: english
+language: french
+class: Sufficiency
+climate: dfb
+latlong: (45.420683,-75.690577)

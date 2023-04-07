@@ -1,0 +1,7 @@
+name: Marrakesh
+country: ma
+language: arabic
+language: berber
+language: french
+climate: bsh
+latlong: (31.632503,-8.008197)

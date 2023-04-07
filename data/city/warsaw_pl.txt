@@ -1,0 +1,6 @@
+name: Warsaw
+country: pl
+language: polish
+class: Alpha
+climate: dfb
+latlong: (52.249792,21.012164)

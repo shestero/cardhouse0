@@ -1,0 +1,4 @@
+name: Portuguese
+nativeName: português
+iso: por
+family: indo-european

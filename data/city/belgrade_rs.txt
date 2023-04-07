@@ -1,0 +1,6 @@
+name: Belgrade
+country: rs
+language: serbian
+class: Beta-
+climate: cfa
+latlong: (44.817747,20.457002)

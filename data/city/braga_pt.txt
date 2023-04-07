@@ -1,0 +1,5 @@
+name: Braga
+country: pt
+language: portuguese
+climate: csb
+latlong: (41.551115,-8.42771)

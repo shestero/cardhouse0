@@ -1,0 +1,5 @@
+name: Osaka
+country: jp
+language: japanese
+climate: cfa
+latlong: (34.662374,135.492844)

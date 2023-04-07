@@ -1,0 +1,6 @@
+name: Munich
+country: de
+language: german
+class: Beta+
+climate: cfb
+latlong: (48.137272,11.575453)

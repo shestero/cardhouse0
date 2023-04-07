@@ -1,0 +1,4 @@
+name: Esperanto
+nativeName: 
+iso: epo
+family: constructed

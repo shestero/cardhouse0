@@ -1,0 +1,5 @@
+name: Kyoto
+country: jp
+language: japanese
+climate: cfa
+latlong: (35.01399,135.747601)

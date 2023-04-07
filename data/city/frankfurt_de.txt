@@ -1,0 +1,6 @@
+name: Frankfurt
+country: de
+language: german
+class: Alpha
+climate: cfb
+latlong: (50.110347,8.682057)

@@ -1,0 +1,6 @@
+name: Lisbon
+country: pt
+language: portuguese
+class: Alpha-
+climate: csa
+latlong: (38.725319,-9.150068)

@@ -1,0 +1,3 @@
+name: Germany
+fullName: 
+nativeName: 

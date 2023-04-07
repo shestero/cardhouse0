@@ -1,0 +1,6 @@
+name: Tokyo
+country: jp
+language: japanese
+class: Alpha+
+climate: cfa
+latlong: (35.689591,139.691875)

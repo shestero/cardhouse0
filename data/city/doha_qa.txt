@@ -1,0 +1,6 @@
+name: Doha
+country: qa
+language: arabic
+class: Beta
+climate: bwh
+latlong: (25.290004,51.537268)

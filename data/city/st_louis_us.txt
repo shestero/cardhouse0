@@ -1,0 +1,5 @@
+name: Saint Louis
+country: us
+language: english
+climate: cfa
+latlong: (38.631782,-90.196769)

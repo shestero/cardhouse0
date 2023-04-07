@@ -1,0 +1,5 @@
+name: Utrecht
+country: nl
+language: dutch_flemish
+climate: cfb
+latlong: (52.093218,5.118733)

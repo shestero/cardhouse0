@@ -1,0 +1,5 @@
+name: Fukuoka
+country: jp
+language: japanese
+climate: cfa
+latlong: (33.599242,130.407854)

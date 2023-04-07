@@ -1,0 +1,6 @@
+name: Hong Kong
+country: cn
+language: cantonese
+class: Alpha+
+climate: cfa
+latlong: (22.282132,114.161634)

@@ -1,0 +1,6 @@
+name: Curitiba
+country: br
+language: portuguese
+class: High Sufficiency
+climate: cfb
+latlong: (-25.429539,-49.271311)

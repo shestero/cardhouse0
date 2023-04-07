@@ -1,0 +1,6 @@
+name: Seville
+country: es
+language: spanish
+class: Sufficiency
+climate: csa
+latlong: (37.388609,-5.995584)

@@ -1,0 +1,6 @@
+name: Rome
+country: it
+language: italian
+class: Beta+
+climate: csa
+latlong: (41.905817,12.48226)

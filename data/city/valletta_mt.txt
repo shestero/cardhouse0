@@ -1,0 +1,7 @@
+name: Valletta
+country: mt
+language: maltese
+language: english
+language: italian
+climate: csa
+latlong: (35.897425,14.512233)

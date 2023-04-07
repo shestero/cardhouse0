@@ -1,0 +1,5 @@
+name: Aix-en-Provence
+country: fr
+language: french
+climate: csb
+latlong: (43.529883,5.447917)

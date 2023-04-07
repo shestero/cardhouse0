@@ -1,0 +1,6 @@
+name: Helsinki
+country: fi
+language: finnish
+class: Beta+
+climate: dfb
+latlong: (60.167568,24.951788)

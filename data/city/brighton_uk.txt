@@ -1,0 +1,5 @@
+name: Brighton
+country: uk
+language: english
+climate: cfb
+latlong: (50.820786,-0.137295)

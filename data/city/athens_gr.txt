@@ -1,0 +1,6 @@
+name: Athens
+country: gr
+language: greek
+class: Beta+
+climate: csa
+latlong: (37.984069,23.728032)

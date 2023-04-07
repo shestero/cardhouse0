@@ -1,0 +1,6 @@
+name: Quebec City
+country: ca
+language: french
+class: Sufficiency
+climate: dfb
+latlong: (46.813878,-71.207079)

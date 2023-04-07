@@ -1,0 +1,6 @@
+name: Stockholm
+country: se
+language: swedish
+class: Alpha-
+climate: cfb
+latlong: (59.329374,18.068682)

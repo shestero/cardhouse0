@@ -1,0 +1,6 @@
+name: Chicago
+country: us
+language: english
+class: Alpha
+climate: dfa
+latlong: (41.88384,-87.632393)

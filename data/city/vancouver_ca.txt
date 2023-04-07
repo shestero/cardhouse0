@@ -1,0 +1,6 @@
+name: Vancouver
+country: ca
+language: english
+class: Beta
+climate: csb
+latlong: (49.283142,-123.119142)

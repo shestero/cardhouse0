@@ -1,0 +1,3 @@
+name: Estonia
+fullName: Republic of Estonia
+nativeName: Eesti Vabariik 

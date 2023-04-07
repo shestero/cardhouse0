@@ -1,0 +1,6 @@
+name: Dublin
+country: ie
+language: english
+class: Alpha-
+climate: cfb
+latlong: (53.344068,-6.267245)

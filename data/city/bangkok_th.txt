@@ -1,0 +1,6 @@
+name: Bangkok
+country: th
+language: thai
+class: Alpha
+climate: aw
+latlong: (13.752624,100.501522)

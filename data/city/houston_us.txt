@@ -1,0 +1,6 @@
+name: Houston
+country: us
+language: english
+class: Beta+
+climate: cfa
+latlong: (29.754035,-95.360878)

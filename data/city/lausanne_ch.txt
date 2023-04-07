@@ -1,0 +1,6 @@
+name: Lausanne
+country: ch
+language: french
+class: High Sufficiency
+climate: cfb
+latlong: (46.521759,6.633222)

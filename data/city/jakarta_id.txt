@@ -1,0 +1,6 @@
+name: Jakarta
+country: id
+language: indonesian
+class: Alpha
+climate: am
+latlong: (-6.175346,106.827178)

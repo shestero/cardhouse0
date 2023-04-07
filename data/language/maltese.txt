@@ -1,0 +1,3 @@
+name: Maltese
+iso: mlt
+family: afro-asiatic

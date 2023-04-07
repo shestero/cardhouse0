@@ -1,0 +1,6 @@
+name: Abu Dhabi
+country: ae
+language: arabic
+class: Beta
+climate: bwh
+latlong: (24.487631,54.355021)

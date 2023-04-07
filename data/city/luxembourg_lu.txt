@@ -1,0 +1,8 @@
+name: Luxembourg
+country: lu
+language: luxembourgish
+language: french
+language: german
+class: Alpha-
+climate: cfb
+latlong: (49.611293,6.129366)

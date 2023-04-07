@@ -1,0 +1,6 @@
+name: Berlin
+country: de
+language: german
+class: Beta
+climate: cfa
+latlong: (52.519943,13.407727)

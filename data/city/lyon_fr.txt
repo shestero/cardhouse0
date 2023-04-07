@@ -1,0 +1,6 @@
+name: Lyon
+country: fr
+language: french
+class: Beta-
+climate: cfb
+latlong: (45.767719,4.835902)

@@ -1,0 +1,5 @@
+name: Cordoba
+country: es
+language: spanish
+climate: csa
+latlong: (37.890043,-4.778507)

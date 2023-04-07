@@ -1,0 +1,6 @@
+name: Antwerp
+country: be
+language: dutch_flemish
+class: Beta-
+climate: cfb
+latlong: (51.221426,4.398823)

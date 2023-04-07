@@ -1,0 +1,6 @@
+name: Melbourne
+country: au
+language: english
+class: Alpha
+climate: cfb
+latlong: (-37.815252,144.967348)

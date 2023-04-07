@@ -1,0 +1,6 @@
+name: Hamburg
+country: de
+language: german
+class: Beta+
+climate: cfb
+latlong: (53.550717,9.992957)

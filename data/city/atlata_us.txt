@@ -1,0 +1,6 @@
+name: Atlanta
+country: us
+language: english
+class: Beta+
+climate: cfa
+latlong: (33.754445,-84.389788)

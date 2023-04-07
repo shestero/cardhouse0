@@ -1,0 +1,6 @@
+name: London
+country: uk
+language: english
+class: Alpha++
+climate: cfb
+latlong: (51.510056,-0.134883)

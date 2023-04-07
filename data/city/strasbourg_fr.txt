@@ -1,0 +1,5 @@
+name: Strasbourg
+country: fr
+language: french
+climate: cfb
+latlong: (48.584564,7.750739)

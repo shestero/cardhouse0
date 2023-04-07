@@ -1,0 +1,8 @@
+name: Shenzhen
+country: cn
+language: cantonese
+language: hakka
+language: mandarin
+class: Beta
+climate: cwa
+latlong: (22.539974,114.059817)

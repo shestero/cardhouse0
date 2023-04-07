@@ -1,0 +1,5 @@
+name: Rostov-on-Don
+country: ru
+language: russian
+climate: dfa
+latlong: (47.222167,39.720334)

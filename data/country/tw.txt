@@ -1,0 +1,3 @@
+name: Taiwan
+fullName: Republic of China
+nativeName: 中華民國

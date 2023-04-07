@@ -1,0 +1,3 @@
+name: Egypt
+fullName: Arab Republic of Egypt
+nativeName: 

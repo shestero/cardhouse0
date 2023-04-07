@@ -1,0 +1,6 @@
+name: São Paulo
+country: br
+language: portuguese
+class: Alpha
+climate: cfb
+latlong: (-23.543353,-46.642902)

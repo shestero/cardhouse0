@@ -1,0 +1,7 @@
+name: Los Angeles
+country: us
+language: english
+language: spanish
+class: Alpha
+climate: csa
+latlong: (34.048464,-118.252964)

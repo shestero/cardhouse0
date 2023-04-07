@@ -1,0 +1,6 @@
+name: New York
+country: us
+language: english
+class: Alpha++
+climate: cfa
+latlong: (40.758782,-73.985193)

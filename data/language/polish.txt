@@ -1,0 +1,3 @@
+name: Polish
+iso: pol
+family: indo-european

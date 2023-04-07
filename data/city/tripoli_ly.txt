@@ -1,0 +1,5 @@
+name: Tripoli
+country: ly
+language: arabic
+climate: bsh
+latlong: (32.894929,13.181045)

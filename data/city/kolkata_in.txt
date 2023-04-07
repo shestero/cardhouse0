@@ -1,0 +1,7 @@
+name: Kolkata
+country: in
+language: bengali
+language: english
+class: Beta-
+climate: aw
+latlong: (22.567564,88.344748)

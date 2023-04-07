@@ -1,0 +1,4 @@
+name: Hindi
+nativeName: हिन्दी
+iso: hin
+family: indo-european

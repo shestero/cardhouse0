@@ -1,0 +1,5 @@
+name: Rio de Janeiro
+country: br
+language: portuguese
+climate: am
+latlong: (-22.903119,-43.174602)

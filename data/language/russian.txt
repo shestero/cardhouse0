@@ -1,0 +1,4 @@
+name: Russian
+nativeName: русский
+iso: rus
+family: indo-european

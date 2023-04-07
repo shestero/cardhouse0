@@ -1,0 +1,7 @@
+name: Accra
+country: gh
+language: english
+language: ga
+class: Gamma+
+climate: bsh
+latlong: (5.55109,-0.203568)

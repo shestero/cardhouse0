@@ -1,0 +1,2 @@
+name: Afrikaans
+iso: afr

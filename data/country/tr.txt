@@ -1,0 +1,3 @@
+name: Turkey
+fullName: Republic of Turkey
+nativeName: Türkiye Cumhuriyeti

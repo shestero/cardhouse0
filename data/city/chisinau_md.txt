@@ -1,0 +1,6 @@
+name: Chisinau
+country: md
+language: romanian
+language: russian
+climate: dfb
+latlong: (47.024822,28.832681)

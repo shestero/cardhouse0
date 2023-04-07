@@ -1,0 +1,6 @@
+name: Toulouse
+country: fr
+language: french
+class: Sufficiency
+climate: cfb
+latlong: (43.604402,1.44344)

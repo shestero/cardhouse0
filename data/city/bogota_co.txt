@@ -1,0 +1,6 @@
+name: Bogota
+country: co
+language: spanish
+class: Alpha-
+climate: cfb
+latlong: (4.595261,-74.077648)

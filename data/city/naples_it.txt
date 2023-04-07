@@ -1,0 +1,5 @@
+name: Naples
+country: it
+language: italian
+climate: csa
+latlong: (40.852173,14.267808)

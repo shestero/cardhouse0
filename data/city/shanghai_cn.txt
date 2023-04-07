@@ -1,0 +1,6 @@
+name: Shanghai
+country: cn
+language: wu
+class: Alpha+
+climate: cfa
+latlong: (31.230271,121.473874)

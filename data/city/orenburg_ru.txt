@@ -1,0 +1,5 @@
+name: Orenburg
+country: ru
+language: russian
+climate: dfa
+latlong: (51.76262,55.101232)

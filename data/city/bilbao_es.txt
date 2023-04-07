@@ -1,0 +1,7 @@
+name: Bilbao
+country: es
+language: spanish
+language: basque
+class: Gamma
+climate: cfb
+latlong: (43.263004,-2.935003)

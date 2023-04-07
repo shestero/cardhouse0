@@ -1,0 +1,6 @@
+name: Vienna
+country: at
+language: german
+class: Alpha-
+climate: cfb
+latlong: (48.207987,16.366508)

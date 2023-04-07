@@ -1,0 +1,5 @@
+name: Coimbra
+country: pt
+language: portuguese
+climate: csa
+latlong: (40.2109,-8.429108)

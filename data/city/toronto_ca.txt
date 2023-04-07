@@ -1,0 +1,6 @@
+name: Toronto
+country: ca
+language: english
+class: Alpha
+climate: dfb
+latlong: (43.653543,-79.384055)

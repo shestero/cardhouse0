@@ -1,0 +1,6 @@
+name: Caracas
+country: ve
+language: spanish
+class: Beta+
+climate: aw
+latlong: (10.502437,-66.902901)

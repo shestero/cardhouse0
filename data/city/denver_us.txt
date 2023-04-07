@@ -1,0 +1,6 @@
+name: Denver
+country: us
+language: english
+class: Beta-
+climate: cfa
+latlong: (39.739199,-104.99025)

@@ -1,0 +1,6 @@
+name: Cleveland
+country: us
+language: english
+class: Gamma+
+climate: dfa
+latlong: (41.499693,-81.693644)

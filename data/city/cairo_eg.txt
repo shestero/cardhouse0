@@ -1,0 +1,6 @@
+name: Cairo
+country: eg
+language: arabic
+class: Beta+
+climate: bwh
+latlong: (30.044435,31.235741)

@@ -1,0 +1,7 @@
+name: Nicosia
+country: cy
+language: greek
+language: turkish
+class: Beta
+climate: bsh
+latlong: (35.174739,33.361458)

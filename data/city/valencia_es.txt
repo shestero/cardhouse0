@@ -1,0 +1,7 @@
+name: Valencia
+country: es
+language: spanish
+language: catalan
+class: Gamma+
+climate: bsk
+latlong: (39.46975,-0.376354)

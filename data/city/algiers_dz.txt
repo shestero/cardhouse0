@@ -1,0 +1,7 @@
+name: Algiers
+country: dz
+language: arabic
+language: berber
+language: french
+climate: csa
+latlong: (36.776261,3.058348)
