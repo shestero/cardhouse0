@@ -32,21 +32,7 @@ case class Deck[F[Card] <: Iterable[Card]](cls: String, cards: F[Card]) {
 
   def foreach(f: Card => Unit): Unit = cards.foreach(f)
 
-  lazy val factors0 /* (size: Int = cards.size) */ : MapView[RecKey, Seq[(String, Int)]] =
-    cards
-      .flatMap(_.public)
-      .groupMapReduce(_.k)(r => Map(r.v.toString.toLowerCase() -> 1))(_ |+| _)
-      .filter { case (k, v) => k == "category" || v.size <= factorLevel }
-      .view
-      .mapValues {
-        vs =>
-          val vst = vs.toSeq.traverse { case p@(v, _) => Try(v.toInt -> p) }
-          vst match
-            case Success(vsi) => vsi.toSeq.sortBy(_._1).map(_._2)
-            case _ => vs.toSeq.sortBy(-_._2)
-      }
-
-  lazy val factors /* (size: Int = cards.size) */ : MapView[RecKey, Seq[(String, Int)]] =
+  lazy val factors: MapView[RecKey, Seq[(String, Int)]] =
     cards
       .flatMap(_.public)
       .groupMapReduce(_.k)(r => Map(r.v.toString.toLowerCase() -> 1))(_ |+| _)
