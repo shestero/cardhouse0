@@ -82,6 +82,6 @@ object Card {
       case ((m, None), s"$key::") => m -> Some(key.trim -> List.empty)
       case ((m, None), s"$key:$value") => (m :+ (key.trim -> value.replaceAll("\\p{C}", "?").trim)) -> None
       case ((m, None), _) => m -> None
-    }._1.map(_ -> RecValueTrivial(_)).map(Record.apply.tupled) // .map((k,v) => Record(RecKeyTrivial(k),RecValueTrivial(v)))
+    }._1.map(_ -> RecValueTrivial(_)).map(Record.apply.tupled)
   )
 }
